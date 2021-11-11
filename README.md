@@ -1,5 +1,7 @@
 # Joomla full compromise chain
 
+Full write-up: https://www.fortbridge.co.uk/advisories/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/
+
 Steps:
 
 1) Setup an index.php script on your attacker host which will capture the password reset token and reset the admin's password
